@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Module>
-  <Name>Jitter</Name>
+  <Name>Jitter.Redpoint</Name>
+  <Authors>Redpoint Games</Authors>
+  <SemanticVersion>0.3.0</SemanticVersion>
+  <Description>This is an up-to-date, maintained version of Jitter, used in the Protogame game engine.</Description>
+  <LicenseUrl>https://opensource.org/licenses/MIT</LicenseUrl>
+  <ProjectUrl>https://github.com/RedpointGames/Jitter</ProjectUrl>
+  <IconUrl>http://benjaminnitschke.com/Jitter128x128.png</IconUrl>
+  <GitRepositoryUrl>https://github.com/RedpointGames/Jitter</GitRepositoryUrl>
   <DefaultAction>resync</DefaultAction>
   <GenerateNuGetRepositories>true</GenerateNuGetRepositories>
 </Module>
